@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @omerburakvural
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on any Java project
+- 👀 I’m interested in Swift & Java
+- 🌱 I’m currently learning Swift
+- 💞️ I’m looking to collaborate on any Swift or Java project
 - 📫 You can reach me via e-mail omerburakvural@gmail.com
 
 <!---
