@@ -2,7 +2,7 @@
 - 👀 I’m interested in Swift & Java
 - 🌱 I’m currently learning Swift
 - 💞️ I’m looking to collaborate on any Swift or Java project
-- 📫 You can reach me via e-mail obvural@gmail.com
+- 📫 You can reach me via e-mail omerburakvural@gmail.com
 
 <!---
 omerburakvural/omerburakvural is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
